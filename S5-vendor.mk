@@ -1,9 +1,9 @@
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/Micromax/A311/proprietary/bin,system/bin)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/Gionee/S5/proprietary/bin,system/bin)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/Micromax/A311/proprietary/etc,system/etc)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/Gionee/S5/proprietary/etc,system/etc)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/Micromax/A311/proprietary/lib,system/lib)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/Gionee/S5/proprietary/lib,system/lib)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/Micromax/A311/proprietary/xbin,system/xbin)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/Gionee/S5/proprietary/xbin,system/xbin)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/Micromax/A311/proprietary/vendor,system/vendor)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/Gionee/S5/proprietary/vendor,system/vendor)
